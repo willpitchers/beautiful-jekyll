@@ -1,16 +1,15 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Who am I and why should you care?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### the TL:DR version
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am a 30-something cis-gendered white dude... I know. Original, right!?
 
-What else do you need?
+### the slightly longer version
 
-### my history
+I like to say that I started life as a behavioural ecologist, but found that the majority of the most interesting questions had been answered (sometimes with a whole pile of answers – take you pick!), and so was seduced by genetics. I got my PhD in evolutionary quentitave genetics, and became a postdoc with the intention of doing QG and morphometrics. After a few years of that I discovered that I had morphed into a bioinformatician and that this newest iteration of Will had grown opinions about operating systems and programming languages that felt almost as important as the biology... life's a funny beast.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Traditionally, here's where I'd expect to put some interesting things that I spend my time on when I'm not working, but I'm a postdoc, so when I'm not working I'm either doing housework or asleep. I have a *very* big pile of novels that I'm *totally* going to find the time to read eventually – mostly SF and urban fantasy stuff – and a stack of video games that I am also going to finish just see if I don't. I enjoy walking the slightly longer route to work sometimes and if you haven't tried real ale then I heartily recommend it!
